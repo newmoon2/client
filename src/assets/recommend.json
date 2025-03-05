@@ -1,0 +1,14 @@
+[
+  {
+    "key": "awesome-chatgpt-prompts-zh",
+    "desc": "🤖️ ChatGPT   연수 안내",
+    "downloadUrl": "https://raw.githubusercontent.com/PlexPt/awesome-chatgpt-prompts-zh/main/prompts-zh.json",
+    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh"
+  },
+  {
+    "key": "awesome-chatgpt-prompts-zh-TW",
+    "desc": "🤖️ ChatGPT 연수 안내 (통과하다OpenAI / OpenCC   간체 버전을   번체 버전으로 변환하는 데 도움)",
+    "downloadUrl": "https://raw.githubusercontent.com/PlexPt/awesome-chatgpt-prompts-zh/main/prompts-zh-TW.json",
+    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh"
+  }
+]
